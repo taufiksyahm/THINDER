@@ -1,6 +1,6 @@
 # THINDER
 Things Finder
 
-This wireless-based tool uses Bluetooth as a transmitter and receiver to the Arduino nano which controls the buzzer component on or off which can be controlled by an application on the owner's smartphone. This tool has the ability to communicate with a distance of 10 meters.
+This tool utilizes wireless technology, employing Bluetooth as a transmitter and receiver, connecting to an Arduino Nano. The Arduino Nano controls the on/off functionality of the buzzer component. The entire system can be managed through a dedicated smartphone application. With a communication range of up to 10 meters, this tool offers convenient remote control capabilities.
 
 Video: https://youtu.be/0KR1lQgHh80
